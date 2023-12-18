@@ -41,7 +41,7 @@ Nossa [Área de Aprendizado de HTML](/pt-BR/docs/Aprender/HTML) apresenta vário
   - : Formulários são partes muito importantes na Web — proporcionam muitas das funcionalidades que você precisa para interagir em páginas web. Exemplos disso são registrar-se e conectar-se, enviar comentários, comprar produtos e muito mais. Este módulo lhe permite começar a criar as partes visíveis dos formulários, ou seja, as partes que os usuários interagem.
 - [Usando HTML para resolver problemas comuns](/pt-BR/docs/Learn/HTML/Howto)
   - : Apresenta links para seções com conteúdo explicando como usar HTML para resolver problemas muito comuns, quando se cria uma página web: como trabalhar com títulos, agregar imagens ou vídeos, colocar ênfase em conteúdo, criar um formulário básico, etc.
-
+ 
 ## Tópicos avançados
 
 - [Habilitando Imagem CORS](/pt-BR/docs/Web/HTML/CORS_enabled_image)
